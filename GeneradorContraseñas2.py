@@ -62,4 +62,4 @@ for x in range(len(contraseña)):
     contraseña_string = contraseña_string + (contraseña[x])
 
 print(contraseña_string)
-print(mayusculas[4])
+
